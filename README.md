@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Mengxia, Welcome to my repository 👋
 
 - 🔭 I’m a Graduate Student at Northeastern University
 - 🌱 I’m proficient in using **SQL**, **Python**, **Tableau** for data analysis;
