@@ -1,4 +1,4 @@
-### Hi, I'm Mengxia, Welcome to my channel 👋
+### Hi, I'm Zoey, Welcome to my channel 👋
 
 - 🔭 I’m a recent Graduate Student from Northeastern University
 - 🌱 I’m proficient in using **SQL**, **Python**, **Tableau** for data analysis;
