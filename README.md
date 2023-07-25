@@ -2,8 +2,8 @@
 
 - 🔭 I’m a Graduate Student of Northeastern University, recently completed the **Google Business Intelligence Professional Certificate**.
 - 🌱 I’m proficient in using **SQL**, **Python**, **Tableau** for comprehensive data analysis;
-  🌱 I'm also skilled in **HTML** and **Video Editing** for marketing or fashion purposes
-- 💬 Share ideas about **Data Analysis** or fashion trends with me
+  🌱 I'm also skilled in **HTML** and **Video Editing** for fun
+- 💬 Share ideas about **Business Intelligence** or **Data Analysis** with me
 - 😄 Pronouns: she/her
-- ⚡ Looking for : **Data/Business Analyst** jobs
+- ⚡ Looking for : **Business Intelligence Analyst/Business Analyst/Data Analyst** jobs
 - 📫 How to reach me: zhang.mengx@northeastern.edu
